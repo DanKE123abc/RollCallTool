@@ -17,4 +17,9 @@
     <PackageReference Include="DanKeJson" Version="1.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="Form2.cs" />
+    <Compile Update="Form2.cs" />
+  </ItemGroup>
+
 </Project>

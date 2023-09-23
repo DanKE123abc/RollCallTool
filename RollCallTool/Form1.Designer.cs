@@ -62,6 +62,7 @@
             Controls.Add(button1);
             Controls.Add(label1);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "Form1";
             Text = "一个很厉害但又没有那么厉害的点名器";
             Load += Form1_Load;
